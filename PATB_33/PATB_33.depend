@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1477051451 source:c:\users\admin\desktop\pat\patb_33\main.cpp
+	<iostream>
+	<cstring>
+	<iostream>
+	<string>
+	<set>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476969687 source:c:\users\admin\desktop\pat\patb_28\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<cstring>
+
