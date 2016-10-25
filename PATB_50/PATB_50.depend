@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477382751 source:c:\users\admin\desktop\pat\patb_50\main.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+
